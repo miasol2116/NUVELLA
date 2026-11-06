@@ -1,0 +1,80 @@
+
+[
+  {
+    "id": 1,
+    "nombre": "TV nacional",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/F4NZM3s.jpeg",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8"
+  },
+  {
+    "id": 2,
+    "nombre": "deltaTV",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/crttwAR.png",
+    "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8"
+  },
+  {
+    "id": 3,
+    "nombre": "Peru imperial",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/2zCD4TB.png",
+    "url": "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8"
+  },
+  {
+    "id": 4,
+    "nombre": "Tv yadi",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/OSvegAq.png",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8"
+  },
+  {
+    "id": 5,
+    "nombre": "TV otaku",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/rxzz6kD.jpeg",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8"
+  },
+  {
+    "id": 6,
+    "nombre": "TV Perú",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/eQLRVFp.png",
+    "url": "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8"
+  },
+  {
+    "id": 7,
+    "nombre": "TV Perú",
+    "categoría": "Nacional",
+    "imagen": "https://aptcperu.org/wp-content/uploads/2026/04/logoMesa-de-trabajo-1-copia-5.png",
+    "url": "https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8"
+  },
+  {
+    "id": 8,
+    "nombre": "TV Perú",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/bZnDDPH.png",
+    "url": "http://190.93.224.42/WILLAX/index.m3u8"
+  },
+  {
+    "id": 9,
+    "nombre": "TV Perú",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/AbZYWEQ.png",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8"
+  },
+  {
+    "id": 10,
+    "nombre": "TV Perú",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/F0PWpyc.png",
+    "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8"
+  },
+  {
+    "id": 11,
+    "nombre": "TV Perú",
+    "categoría": "Nacional",
+    "imagen": "https://i.imgur.com/MFQpLuQ.png",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8"
+  }
+]
